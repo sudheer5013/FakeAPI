@@ -2,7 +2,7 @@
 {
   
    "AreaNames": [
-     { "name": "Route1","name": "Route1"}
+     { "name": "Route1"},{"name": "Route2"}
    ],
   "Route1": [
    { "name": "Aditya" , "Address": "Prasanth Layout, Upkar Layout, Whitefield, Bengaluru, Karnataka 560066", "BottleCount":5 ,"Location":{"lat":"12.985048","long":"77.747775"} },
