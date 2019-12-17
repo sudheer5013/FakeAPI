@@ -6,12 +6,12 @@
    ],
   "Route1": [
    { "name": "Aditya" , "Address": "Prasanth Layout, Upkar Layout, Whitefield, Bengaluru, Karnataka 560066", "BottleCount":5 ,"Location":{"lat":"12.985048","long":"77.747775"} },
-  { "name": "Sudheer" , "Address": "Konadasapura, Bengaluru, Karnataka 560067", "BottleCount":5 ,"Location":{"lat":"13.0454406","long":"77.7554103"} },
-   { "name": "Pathi" , "Address": "Aavalahalli, Bengaluru, Karnataka 560049", "BottleCount":5 ,"Location":{"lat":"13.035071","long":"77.736568"} }
+  { "name": "Sudheer" , "Address": "Konadasapura, Bengaluru, Karnataka 560067", "BottleCount":15 ,"Location":{"lat":"13.0454406","long":"77.7554103"} },
+   { "name": "Pathi" , "Address": "Aavalahalli, Bengaluru, Karnataka 560049", "BottleCount":9 ,"Location":{"lat":"13.035071","long":"77.736568"} }
   ],
   "Route2": [
-   { "name": "Sudheer" , "Address": "Konadasapura, Bengaluru, Karnataka 560067", "BottleCount":5 ,"Location":{"lat":"13.0454406","long":"77.7554103"} },
-       { "name": "Pathi" , "Address": "Aavalahalli, Bengaluru, Karnataka 560049", "BottleCount":5 ,"Location":{"lat":"13.035071","long":"77.736568"} },
+   { "name": "Sudheer" , "Address": "Konadasapura, Bengaluru, Karnataka 560067", "BottleCount":15 ,"Location":{"lat":"13.0454406","long":"77.7554103"} },
+       { "name": "Pathi" , "Address": "Aavalahalli, Bengaluru, Karnataka 560049", "BottleCount":9 ,"Location":{"lat":"13.035071","long":"77.736568"} },
    { "name": "Aditya" , "Address": "Prasanth Layout, Upkar Layout, Whitefield, Bengaluru, Karnataka 560066", "BottleCount":5 ,"Location":{"lat":"12.985048","long":"77.747775"} }
   ]
 } 
