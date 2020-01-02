@@ -10,7 +10,7 @@
   ],
   "Route2": [
    { "name": "Sudheer" , "OrderId":"0124231", "OrederStaus":"1", "Address": "Konadasapura, Bengaluru, Karnataka 560067", "BottleCount":15, "cost":"$75 COD" ,"Location":{"lat":"13.0578831","long":"77.7692763"} },
-   { "name": "Pathi" , "OrderId":"0124232",  "OrederStaus":"1", "Address": "Aavalahalli, Bengaluru, Karnataka 560049", "BottleCount":9 , "cost":"$45 PAID","Location":{"lat":"13.035071","long":"77.736568"} },
+   { "name": "Pathi" , "OrderId":"0124232",  "OrederStaus":"1", "Address": "Aavalahalli, Bengaluru, Karnataka 560049", "BottleCount":9 , "cost":"$45 PAID","Location":{"lat":"10.035071","long":"75.536568"} },
    { "name": "Aditya" , "OrderId":"0124233",  "OrederStaus":"1", "Address": "Prasanth Layout, Upkar Layout, Whitefield, Bengaluru, Karnataka 560066", "BottleCount":5 ,"cost":"$25 PAID", "Location":{"lat":"12.985048","long":"77.747775"} }
   ]
 } 
